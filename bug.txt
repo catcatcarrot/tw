@@ -1,3 +1,10 @@
 fix bug
+<<<<<<< HEAD
 
 success fix
+=======
+111111
+嘟嘟嘟
+222222
+biubiubiu~
+>>>>>>> 01ae082b9f72a1a0130e85b2a266e356b77916b1
